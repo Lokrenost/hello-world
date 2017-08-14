@@ -6,3 +6,4 @@ c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\Test
 c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.csproj.GenerateResource.Cache
 c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.exe
 c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.pdb
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.Form1.resources
