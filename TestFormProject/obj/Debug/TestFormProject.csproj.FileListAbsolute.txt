@@ -1,0 +1,8 @@
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\bin\Debug\TestFormProject.exe.config
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\bin\Debug\TestFormProject.exe
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\bin\Debug\TestFormProject.pdb
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.exe
+c:\users\максим\documents\visual studio 2012\Projects\TestFormProject\TestFormProject\obj\Debug\TestFormProject.pdb
