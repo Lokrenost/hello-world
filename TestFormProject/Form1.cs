@@ -17,6 +17,8 @@ namespace TestFormProject
         public Form1()
         {
             InitializeComponent();
+            
+            MessageBox.Show("Hello World!");
         }
     }
 }
